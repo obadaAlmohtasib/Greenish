@@ -30,3 +30,7 @@ A social service for people who struggle to irrigate and plant trees, whether at
 2. The system shall not let the user to water a tree if he is not in the 5-meter range.
 3. Build user friendly interface.
 4. The system shall retrieve the tree status (Green, yellow, red).
+
+
+https://user-images.githubusercontent.com/99412157/215425531-39421ada-1a44-49a6-878c-ea27667c9357.mp4
+
